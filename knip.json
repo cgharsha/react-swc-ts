@@ -1,0 +1,22 @@
+{
+  "ignoreDependencies": [
+    "@testing-library/user-event",
+    "jest",
+    "jest-environment-jsdom",
+    "ts-jest",
+    "ts-node"
+  ],
+  "ignoreDevDependencies": [
+    "@testing-library/user-event",
+    "@types/jest",
+    "@types/node",
+    "@types/react",
+    "@types/react-dom",
+    "husky",
+    "knip",
+    "ts-jest",
+    "ts-node",
+    "typescript"
+  ],
+  "ignore": ["vite.config.ts", "/.eslintrc.js"]
+}
